@@ -25,7 +25,7 @@ public:
         return prev;
     }
     bool isPalindrome(ListNode* head) {
-        int size = 0;
+        
         ListNode* slow = head;
         ListNode* fast = head;
 
@@ -39,8 +39,10 @@ public:
         ListNode* secondHalf;
 
         if (fast == NULL) {
+            // if list even
             secondHalf = reverseList(slow);
         } else {
+            // if list odd
             secondHalf = reverseList(slow->next);
         }
 
