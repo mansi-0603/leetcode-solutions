@@ -14,6 +14,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mansi2206/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mansi2206/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
