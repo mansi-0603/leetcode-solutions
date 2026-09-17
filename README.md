@@ -24,6 +24,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mansi2206/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mansi2206/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -38,6 +39,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mansi2206/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -58,6 +60,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansi2206/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
