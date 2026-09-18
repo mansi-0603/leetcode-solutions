@@ -112,6 +112,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/mansi2206/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [1757-recyclable-and-low-fat-products](https://github.com/mansi2206/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Ternary Search
 |  |
 | ------- |
