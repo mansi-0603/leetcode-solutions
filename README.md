@@ -72,6 +72,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0033-search-in-rotated-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/mansi2206/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -95,6 +96,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0033-search-in-rotated-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/mansi2206/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
