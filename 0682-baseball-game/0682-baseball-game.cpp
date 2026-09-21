@@ -14,8 +14,8 @@ public:
                 int val1 = st.top();
                 st.pop();
                 int val2 = st.top();
-                st.push(val1);
-                st.push(val1 + val2);
+                st.push(val1); // input 1 ke explanation ko jb dekhogi toh usmei 10 store hua h toh uske liye ye operation h.
+                st.push(val1 + val2); // for 15 wle ke liye
             } else {
                 st.push(stoi(i));
             }
