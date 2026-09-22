@@ -68,6 +68,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansi2206/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/mansi2206/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/mansi2206/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |
 | ------- |
