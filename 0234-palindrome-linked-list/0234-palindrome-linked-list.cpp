@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* next = NULL;
         ListNode* prev = NULL;
+        ListNode* next = NULL;
         ListNode* curr = head;
 
         while (curr != NULL) {
@@ -23,39 +23,31 @@ public:
             curr = next;
         }
         return prev;
-    }
+    };
     bool isPalindrome(ListNode* head) {
-        
         ListNode* slow = head;
         ListNode* fast = head;
 
-        // middle point.
         while (fast != NULL && fast->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
         }
-
-        // reversing second half of List
-        ListNode* secondHalf;
-
-        if (fast == NULL) {
-            // if list even
-            secondHalf = reverseList(slow);
+        ListNode* sH;
+        if (fast != NULL) {
+            sH = reverseList(slow->next);
         } else {
-            // if list odd
-            secondHalf = reverseList(slow->next);
+            sH = reverseList(slow);
         }
 
-        // now the comparison
         ListNode* first = head;
-        ListNode* second = secondHalf;
+        ListNode* second = sH;
 
         while (second != NULL) {
             if (first->val != second->val) {
                 return false;
             }
-            first = first->next;
-            second = second->next;
+            first = first -> next;
+            second = second -> next;
         }
         return true;
     }
