@@ -3,21 +3,18 @@ public:
     int countDigitOccurrences(vector<int>& nums, int digit) {
         int cnt = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-            int x = nums[i];
-            if (x > 9) {
-                while (x > 0) {
-                    int dgt = x % 10;
-
-                    if(dgt == digit){
-                        cnt++;
-                    }
-                    x /= 10;
-                }
-            }else{
-                if(x == digit){
+        for (int x : nums) {
+            if (x == 0) {
+                if (x == digit) {
                     cnt++;
                 }
+                continue;
+            }
+            while (x > 0) {
+                if (x % 10 == digit) {
+                    cnt++;
+                }
+                x /= 10;
             }
         }
         return cnt;
