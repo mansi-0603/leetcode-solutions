@@ -10,10 +10,10 @@ public:
                 sm += nums[i] % 10;
                 nums[i] /= 10;
             }
-
             if (sm == i) {
                 if (i < ansIdx) {
-                    ansIdx = i;
+                    // ansIdx = i;
+                    return i;
                 }
             }
         }
