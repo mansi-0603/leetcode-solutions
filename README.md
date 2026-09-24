@@ -67,6 +67,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0002-add-two-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mansi2206/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansi2206/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/mansi2206/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -89,6 +90,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mansi2206/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansi2206/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mansi2206/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/mansi2206/leetcode-solutions/tree/master/3895-count-digit-appearances) |
