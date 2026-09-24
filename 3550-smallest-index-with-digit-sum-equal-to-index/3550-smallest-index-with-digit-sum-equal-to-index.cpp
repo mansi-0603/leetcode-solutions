@@ -11,10 +11,8 @@ public:
                 nums[i] /= 10;
             }
             if (sm == i) {
-                if (i < ansIdx) {
-                    // ansIdx = i;
-                    return i;
-                }
+                // we can normally return because we r traversing from left to right.
+                return i;
             }
         }
 
