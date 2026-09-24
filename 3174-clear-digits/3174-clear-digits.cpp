@@ -1,22 +1,19 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        stack<char> st;
 
-        for(int i = 0; i < s.size(); i++){
-            if(isalpha(s[i])){
-                st.push(s[i]);
-            }else{
-                st.pop();
+        string ans = "";
+        
+        for (int i = 0; i < s.size(); i++) {
+            if (isalpha(s[i])) {
+                // if char is not digit then simply add it to the result string
+                ans += s[i];
+            } else {
+                //if char is digit then
+               // dlt the last elemt for answer string
+               ans.pop_back();
             }
         }
-        string ans = "";
-        while(!st.empty()){
-            ans += st.top();
-            st.pop();
-        }
-
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
