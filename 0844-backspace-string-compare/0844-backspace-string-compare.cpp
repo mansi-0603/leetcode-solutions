@@ -24,15 +24,10 @@ public:
                
         }
 
-        string x1 = "";
-        string x2 = "";
-
         while (!st1.empty() && !st2.empty()) {
             if (st1.top() == st2.top()) {
-                x1 += st1.top();
                 st1.pop();
-                x2 += st2.top();
-                st2.pop();
+        st2.pop();
             } else {
                 return false;
             }
