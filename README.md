@@ -19,6 +19,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0151-reverse-words-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/mansi2206/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -151,6 +152,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0496-next-greater-element-i](https://github.com/mansi2206/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/mansi2206/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mansi2206/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Simulation
