@@ -1,45 +1,51 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-
         ListNode* curr = head;
-        ListNode* prev = NULL;
+        ListNode* prev = nullptr;
+        int size = 0;
 
-        int sizeLL = 0;
-
-        // 1. Size calculate
+        // phle size nikalo list ka
         while (curr != nullptr) {
             curr = curr->next;
-            sizeLL++;
+            size++;
         }
 
-        int curr_Idx = 0;
+        // curr ko wps se initialize kro head
         curr = head;
 
-        // 2. Target node find
-        while (curr != NULL) {
+        // curr index niklo
+        int currIdx = 0;
 
-            if (sizeLL - curr_Idx == n) {
+        // wps se traverse kro or target find kro
+        while (curr != nullptr) {
 
-                // 3. Head delete karna hai
+            if (size - currIdx == n) {
+                // agr head hie target hua toh
                 if (curr == head) {
-                    head = curr->next;
+                    head = curr -> next;
+                }else{
+                    prev -> next = curr -> next;
                 }
-
-                // 4. Normal node delete karna hai
-                else {
-                    prev->next = curr->next;
-                }
-
+                // target milne ke baad jb node dlt kr diye h toh break krke return kro direct
                 break;
             }
 
-            // 5. Normal traversal
+            // normal traverse kro jb tk target na mile
             prev = curr;
-            curr = curr->next;
-            curr_Idx++;
+            curr = curr -> next;
+            currIdx++;
         }
-
         return head;
     }
 };
