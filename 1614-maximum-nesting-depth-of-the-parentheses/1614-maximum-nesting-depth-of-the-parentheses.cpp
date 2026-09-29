@@ -1,18 +1,14 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        // stack<char> st;
+
         int track = 0;
         int maxC = INT_MIN;
         for (char ch : s) {
-            if (ch != '(' && ch != ')') {
-                continue;
-            } else if (ch == '(') {
-                // st.push(ch);
+            if (ch == '(') {
                 track++;
                 maxC = max(track, maxC);
-            } else if (ch == ')') {
-                // st.pop();
+            } else if (ch == ')'){
                 track--;
             }
         }
