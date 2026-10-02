@@ -95,6 +95,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0162-find-peak-element](https://github.com/mansi2206/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/mansi2206/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mansi2206/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -114,6 +115,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Binary Search
@@ -174,6 +176,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/mansi2206/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mansi2206/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansi2206/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
