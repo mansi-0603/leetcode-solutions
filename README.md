@@ -6,6 +6,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/mansi2206/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -17,6 +18,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mansi2206/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -79,6 +81,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mansi2206/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
