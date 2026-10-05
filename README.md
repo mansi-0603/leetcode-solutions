@@ -13,6 +13,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0496-next-greater-element-i](https://github.com/mansi2206/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0328-odd-even-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansi2206/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mansi2206/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -191,6 +194,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -214,4 +218,16 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
