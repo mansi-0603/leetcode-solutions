@@ -30,6 +30,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1021-remove-outermost-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/mansi2206/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -151,6 +152,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mansi2206/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Database
 |  |
@@ -188,6 +190,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1021-remove-outermost-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/mansi2206/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -211,6 +214,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mansi2206/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
