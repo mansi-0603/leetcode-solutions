@@ -120,6 +120,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansi2206/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mansi2206/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mansi2206/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -245,4 +246,8 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
