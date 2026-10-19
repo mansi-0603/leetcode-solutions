@@ -43,6 +43,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | ------- |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mansi2206/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mansi2206/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mansi2206/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansi2206/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -143,6 +145,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mansi2206/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
