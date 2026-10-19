@@ -10,6 +10,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0141-linked-list-cycle](https://github.com/mansi2206/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/mansi2206/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -23,6 +24,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0020-valid-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/mansi2206/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -240,6 +242,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Heap (Priority Queue)
 |  |
@@ -262,4 +265,5 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mansi2206/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mansi2206/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
