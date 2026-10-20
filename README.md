@@ -120,6 +120,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mansi2206/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansi2206/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansi2206/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansi2206/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -201,6 +202,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/mansi2206/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansi2206/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Simulation
@@ -209,6 +211,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0566-reshape-the-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/mansi2206/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mansi2206/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansi2206/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansi2206/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -266,4 +269,5 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0225-implement-stack-using-queues](https://github.com/mansi2206/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mansi2206/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansi2206/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
