@@ -9,7 +9,7 @@ public:
         }
 
         int i =0;
-        while(!stdQ.empty() && i < sandwiches.size() && unRot != stdQ.size()){
+        while(!stdQ.empty() && i < sandwiches.size() && unRot < stdQ.size()){
             if (sandwiches[i] == stdQ.front()) {
                 stdQ.pop();
                 i++;
