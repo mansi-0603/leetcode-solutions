@@ -72,6 +72,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0024-swap-nodes-in-pairs](https://github.com/mansi2206/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mansi2206/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mansi2206/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -94,6 +95,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | ------- |
 | [0002-add-two-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/mansi2206/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/mansi2206/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -176,6 +178,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mansi2206/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mansi2206/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
