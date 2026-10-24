@@ -178,6 +178,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/mansi2206/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
