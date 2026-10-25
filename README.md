@@ -37,6 +37,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/mansi2206/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -99,6 +100,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/mansi2206/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/mansi2206/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mansi2206/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansi2206/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansi2206/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
