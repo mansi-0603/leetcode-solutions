@@ -2,11 +2,11 @@ class Solution {
 public:
     bool isPowerOfTwo(int n) {
         if(n <= 0){
-            return false;
+            return 0;
         }
         if((n & (n-1)) == 0){
-            return true;
+            return 1;
         }
-        return false;
+        return 0;
     }
 };
