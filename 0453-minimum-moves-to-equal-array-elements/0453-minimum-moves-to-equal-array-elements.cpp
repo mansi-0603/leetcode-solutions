@@ -1,11 +1,12 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int sum = 0, min = INT_MAX;
+        int sum = 0;
+        int  minE = INT_MAX;
         for (int x : nums) {
             sum += x;
-            min = std::min(min, x);
+            minE = min(minE, x);
         }
-        return sum - nums.size() * min;
+        return sum - nums.size() * minE;
     }
 };
