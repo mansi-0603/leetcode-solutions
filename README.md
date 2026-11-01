@@ -120,6 +120,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0566-reshape-the-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mansi2206/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/mansi2206/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mansi2206/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -153,6 +154,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi2206/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mansi2206/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/mansi2206/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansi2206/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansi2206/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
