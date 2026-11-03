@@ -95,6 +95,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mansi2206/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
