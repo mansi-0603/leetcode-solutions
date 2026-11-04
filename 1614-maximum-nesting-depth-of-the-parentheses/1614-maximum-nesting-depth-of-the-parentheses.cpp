@@ -1,18 +1,19 @@
 class Solution {
 public:
     int maxDepth(string s) {
-
         int track = 0;
-        int maxC = INT_MIN;
-        for (char ch : s) {
-            if (ch == '(') {
+        int maxT = INT_MIN;
+
+        for(char c: s){
+            if(c == '('){
                 track++;
-                maxC = max(track, maxC);
-            } else if (ch == ')'){
+            }
+            else if(c == ')'){
+                maxT = max(track, maxT);
                 track--;
             }
         }
-
-        return maxC == INT_MIN ? 0 : maxC;
+        track = max(maxT, track);
+        return track;
     }
 };
