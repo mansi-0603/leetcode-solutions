@@ -22,6 +22,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0006-zigzag-conversion](https://github.com/mansi2206/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mansi2206/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/mansi2206/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mansi2206/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
