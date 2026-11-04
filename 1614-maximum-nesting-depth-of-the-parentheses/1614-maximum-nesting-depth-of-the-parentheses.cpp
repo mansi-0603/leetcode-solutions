@@ -4,16 +4,14 @@ public:
         int track = 0;
         int maxT = INT_MIN;
 
-        for(char c: s){
-            if(c == '('){
+        for (char c : s) {
+            if (c == '(') {
                 track++;
-            }
-            else if(c == ')'){
+            } else if (c == ')') {
                 maxT = max(track, maxT);
                 track--;
             }
         }
-        track = max(maxT, track);
-        return track;
+        return maxT == INT_MIN ? 0 : maxT;
     }
 };
