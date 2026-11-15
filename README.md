@@ -102,6 +102,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0231-power-of-two](https://github.com/mansi2206/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mansi2206/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1837-sum-of-digits-in-base-k](https://github.com/mansi2206/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1922-count-good-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/mansi2206/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -129,6 +130,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mansi2206/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mansi2206/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mansi2206/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansi2206/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -284,4 +286,12 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0232-implement-queue-using-stacks](https://github.com/mansi2206/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansi2206/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mansi2206/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mansi2206/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
