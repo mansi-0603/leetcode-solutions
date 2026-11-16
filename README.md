@@ -101,6 +101,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [0009-palindrome-number](https://github.com/mansi2206/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mansi2206/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mansi2206/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mansi2206/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mansi2206/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mansi2206/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -225,6 +226,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/mansi2206/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/mansi2206/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mansi2206/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -296,4 +298,8 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mansi2206/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
