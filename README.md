@@ -41,6 +41,7 @@ A structured collection of Data Structures &amp; Algorithms solutions in C++, or
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/mansi2206/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mansi2206/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mansi2206/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-clear-digits](https://github.com/mansi2206/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/mansi2206/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
