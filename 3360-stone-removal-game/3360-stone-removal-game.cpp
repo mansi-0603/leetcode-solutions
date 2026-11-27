@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
+
         if (n < 10)
             return false;
 
@@ -12,13 +13,14 @@ public:
             turn++;
 
             if (n < rmv) {
-                if (turn % 2)
+                if (turn % 2) {
                     ans = false;
-                else
+                } else {
                     ans = true;
-                break;
-            } else {
-                n = n - rmv;
+                }
+                break; 
+            }else{
+                n = n-rmv;
                 rmv--;
             }
         }
